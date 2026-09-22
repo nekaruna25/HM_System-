@@ -1,0 +1,5 @@
+S001|Breakfast|500.0|Breakfast for one guest|true
+S002|Laundry|300.0|Laundry service per order|true
+S003|Airport Pickup|1500.0|Airport transportation service|true
+S004|Extra Bed|1000.0|Extra bed for one night|true
+S005|Room Cleaning|400.0|Additional room cleaning|true

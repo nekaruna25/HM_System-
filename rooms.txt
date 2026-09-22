@@ -1,0 +1,8 @@
+101|Single|2500.0|Available|1|1|Single bed with basic facilities
+102|Single|2500.0|Available|1|1|Single bed with basic facilities
+201|Double|4000.0|Available|2|2|Double bed suitable for two guests
+202|Double|4000.0|Available|2|2|Double bed with balcony
+301|Deluxe|6000.0|Available|3|3|Deluxe room with premium facilities
+302|Deluxe|6000.0|Available|3|3|Deluxe room with city view
+401|Suite|9000.0|Available|4|4|Large suite with living area
+103|luxury|5000.0|Available|5|2|th room is mainly about the project fsfbhsfyewurefhdz.fjcjgzxcjxjhc

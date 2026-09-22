@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a5713eb-fbd1-4205-b848-33053e78dee4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.000000000008716" />
+      <entry key="S30" value="1.0002057956345831" />
+      <entry key="S60" value="1.014345578921157" />
+      <entry key="M2" value="1.1197730308590255" />
+      <entry key="M5" value="1.427901309755393" />
+      <entry key="M10" value="1.654141658783014" />
+      <entry key="M15" value="1.753554276075971" />
+      <entry key="M30" value="1.8680750405788493" />
+      <entry key="H1" value="1.9317054473270239" />
+      <entry key="H2" value="1.9652489043386807" />
+      <entry key="H4" value="1.9824708160239064" />
+      <entry key="D1" value="1.997056899524503" />
+      <entry key="W1" value="1.9995790257899393" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7474246243174691" />
+      <entry key="MS500" value="0.94343825089536" />
+      <entry key="S2" value="0.9855493369393707" />
+      <entry key="S5" value="0.9941944812159504" />
+      <entry key="S10" value="0.9970930153308236" />
+      <entry key="S30" value="0.9991708384577611" />
+      <entry key="S60" value="1.0113797289859614" />
+      <entry key="M2" value="1.1086831563715238" />
+      <entry key="M5" value="1.4118602509475537" />
+      <entry key="M10" value="1.6417904691297185" />
+      <entry key="M15" value="1.7440438244873682" />
+      <entry key="M30" value="1.86258232590269" />
+      <entry key="H1" value="1.9287537230419136" />
+      <entry key="H2" value="1.9637188471769356" />
+      <entry key="H4" value="1.9816918667255186" />
+      <entry key="D1" value="1.9969251089007605" />
+      <entry key="W1" value="1.9995601499910525" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JfJEVj6Z6mhJQlKKrlkSm5QHha" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Desktop/HM System/HotelManagementSystem_Java_IntelliJ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5713eb-fbd1-4205-b848-33053e78dee4" name="Changes" comment="" />
+      <created>1790046078554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790046078554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HotelManagementSystem/src/Customer.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
